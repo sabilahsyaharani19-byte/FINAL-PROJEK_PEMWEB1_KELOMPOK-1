@@ -19,3 +19,4 @@ Login : Card, Input-Group, Buttons, Check.
 
 **Teknologi yang digunakan** : Bootstrap
 
+<img width="1919" height="866" alt="Screenshot 2026-01-06 010707" src="https://github.com/user-attachments/assets/93349239-8f13-4f7c-b0d5-ad6eeaa43a4c" />
